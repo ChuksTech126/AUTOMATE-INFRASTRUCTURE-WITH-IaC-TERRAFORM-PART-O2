@@ -17,7 +17,7 @@ The following screenshots were captured from the live websites and are included 
 
 ### StegTechHub Tooling
 
-![StegTechHub Tooling login page](images/pbl/tooling-login.png)
+![StegTechHub Tooling login page](images/pbl/tooling_login.png)
 
 Live page: [tooling.chuksapp.online](https://tooling.chuksapp.online)
 
